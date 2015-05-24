@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+import Ember from 'ember';
+
+export default Ember.Controller.extend({
+  // needs: [],
+});
+
+]]></content>
+    <description>Ember.Controller.extend()</description>
+    <tabTrigger>controller</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

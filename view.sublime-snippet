@@ -1,0 +1,17 @@
+<snippet>
+    <content><![CDATA[
+import Ember from 'ember';
+
+export default Ember.View.extend({
+  tagName: 'div',
+  // classNames: [],
+  didInsertElement: function() {
+    ${3}
+  }
+});
+
+]]></content>
+    <description>Ember.View.extend()</description>
+    <tabTrigger>view</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

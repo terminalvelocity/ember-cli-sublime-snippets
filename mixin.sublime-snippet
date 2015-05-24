@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+import Ember from 'ember';
+
+export default Ember.Mixin.create({
+  ${3}
+});
+
+]]></content>
+    <description>Ember.Mixin.create()</description>
+    <tabTrigger>mixin</tabTrigger>
+    <scope>source.js</scope>
+</snippet>

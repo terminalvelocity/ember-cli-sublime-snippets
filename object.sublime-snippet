@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+import Ember from "ember";
+
+export default Ember.Object.extend({
+  init: function() {
+    // Setup
+  },
+
+  ${3:method}: function(${4:value}) {
+    ${5}
+  }
+});
+
+]]></content>
+    <description>Ember.Object.extend()</description>
+    <tabTrigger>object</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
