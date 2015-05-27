@@ -1,6 +1,10 @@
 Ember CLI snippets for Sublime Text 3
 ====================================
 
+## Installation
+
+Use Package Control to Install `Ember CLI Snippets`.
+
 ## Ember.js
 
 - app ⇥
