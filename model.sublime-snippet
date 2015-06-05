@@ -1,12 +1,11 @@
 <snippet>
     <content><![CDATA[
 import DS from 'ember-data';
+var attr = DS.attr;
 
-var Doc = DS.Model.extend({
-  ${3:attr}: DS.attr('${4:string}')
+export default DS.Model.extend({
+  ${3:attr}: attr('${4:string}')
 });
-
-export default Doc;
 ]]></content>
     <description>DS.Model.extend()</description>
     <tabTrigger>model</tabTrigger>
