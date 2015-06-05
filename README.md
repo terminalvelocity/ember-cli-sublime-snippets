@@ -3,7 +3,7 @@ Ember CLI snippets for Sublime Text 3
 
 ## Installation
 
-Use Package Control to Install `Ember CLI Snippets`.
+Use Package Control to Install `Ember CLI Snippets`. Updated with newest syntax such as block params and const.
 
 ## Ember.js
 
@@ -27,6 +27,7 @@ Use Package Control to Install `Ember CLI Snippets`.
 - if ⇥
 - ifelse ⇥
 - linkto ⇥
+- linktoblock ⇥
 - partial ⇥
 - unless ⇥
 - viewb ⇥
