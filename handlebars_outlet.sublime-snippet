@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-{{outlet ${1}}}
+{{outlet "${1}"}}
 ]]></content>
   <description>{{outlet }}</description>
   <tabTrigger>outlet</tabTrigger>
