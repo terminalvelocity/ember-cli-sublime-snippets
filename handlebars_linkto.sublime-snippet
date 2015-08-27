@@ -1,6 +1,6 @@
 <snippet>
   <content><![CDATA[
-{{link-to "${1:text}" "${2:route}"}}}
+{{link-to "${1:text}" "${2:route}"}}
 ]]></content>
   <description>{{link-to }}</description>
   <tabTrigger>linkto</tabTrigger>
