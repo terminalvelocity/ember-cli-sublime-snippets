@@ -4,7 +4,7 @@ import DS from 'ember-data';
 const attr = DS.attr;
 
 export default DS.Model.extend({
-  ${3:attr}: attr('${4:string}')
+  ${1:attr}: attr('${2:string}')
 });
 ]]></content>
     <description>DS.Model.extend()</description>

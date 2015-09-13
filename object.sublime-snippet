@@ -7,8 +7,8 @@ export default Ember.Object.extend({
     // Setup
   },
 
-  ${3:method}: function(${4:value}) {
-    ${5}
+  ${1:method}: function(${2:value}) {
+    ${3}
   }
 });
 

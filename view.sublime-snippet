@@ -6,7 +6,7 @@ export default Ember.View.extend({
   tagName: 'div',
   // classNames: [],
   didInsertElement: function() {
-    ${3}
+    ${1}
   }
 });
 

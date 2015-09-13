@@ -1,0 +1,13 @@
+<snippet>
+    <content><![CDATA[
+import Ember from 'ember';
+
+export default Ember.Service.extend({
+  ${1}
+});
+
+]]></content>
+    <description>Ember.Service.extend()</description>
+    <tabTrigger>service</tabTrigger>
+    <scope>source.js</scope>
+</snippet>
