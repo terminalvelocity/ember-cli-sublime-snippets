@@ -2,13 +2,13 @@
     <content><![CDATA[
 import Ember from 'ember';
 
-export default Ember.Handlebars.registerBoundHelper('${1:helperName}', function(${2:value}) {
+export default Ember.Helper.helper((${1:params}${2: ,hash}) => {
 
   return ${3:value};
 });
 
 ]]></content>
-    <description>Ember.Handlebars.registerBoundHelper()</description>
+    <description>Ember.Helper.helper()</description>
     <tabTrigger>helper</tabTrigger>
     <scope>source.js</scope>
 </snippet>
