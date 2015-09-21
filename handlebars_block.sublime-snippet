@@ -5,5 +5,5 @@
 {{/${1:block}}}
 ]]></content>
   <description>{{#block}} {{/block}}</description>
-  <tabTrigger>{{#</tabTrigger>
+  <tabTrigger>block</tabTrigger>
 </snippet>
