@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+{{#${1:block}}}
+  ${2}
+{{/${1:block}}}
+]]></content>
+  <description>{{#block}} {{/block}}</description>
+  <tabTrigger>{{#</tabTrigger>
+</snippet>
