@@ -6,4 +6,5 @@
 ]]></content>
   <description>{{#each }} {{/each}}</description>
   <tabTrigger>each</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>

@@ -6,4 +6,5 @@
 ]]></content>
   <description>{{#unless }} {{unless}}</description>
   <tabTrigger>unless</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>

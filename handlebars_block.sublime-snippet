@@ -6,4 +6,5 @@
 ]]></content>
   <description>{{#block}} {{/block}}</description>
   <tabTrigger>block</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>

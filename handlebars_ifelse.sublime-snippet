@@ -8,4 +8,5 @@
 ]]></content>
   <description>{{#if }} {{else}} {{/if}}</description>
   <tabTrigger>ifelse</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>
