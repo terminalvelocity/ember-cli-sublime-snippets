@@ -4,4 +4,5 @@
 ]]></content>
   <description>{{partial }}</description>
   <tabTrigger>partial</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>
