@@ -4,4 +4,5 @@
 ]]></content>
   <description>{{outlet }}</description>
   <tabTrigger>outlet</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>

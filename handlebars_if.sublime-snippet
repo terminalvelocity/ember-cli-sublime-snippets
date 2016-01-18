@@ -6,4 +6,5 @@
 ]]></content>
   <description>{{#if }} {{/if}}</description>
   <tabTrigger>if</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>

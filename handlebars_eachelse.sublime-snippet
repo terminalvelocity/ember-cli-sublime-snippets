@@ -8,4 +8,5 @@
 ]]></content>
   <description>{{#each }} {{else}} {{/each}}</description>
   <tabTrigger>eachelse</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>

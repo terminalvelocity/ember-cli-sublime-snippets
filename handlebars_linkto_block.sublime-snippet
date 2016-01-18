@@ -4,4 +4,5 @@
 ]]></content>
   <description>{{#link-to}} {{/link-to}}</description>
   <tabTrigger>linktoblock</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>

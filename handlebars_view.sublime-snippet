@@ -6,4 +6,5 @@
 ]]></content>
   <description>{{#view }} {{/view}}</description>
   <tabTrigger>viewb</tabTrigger>
+  <scope>text.html.handlebars</scope>
 </snippet>
